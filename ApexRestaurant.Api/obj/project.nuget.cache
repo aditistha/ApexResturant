@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VtnT1E3bg86IpibJUVoA5a1f7t71tvF2BbA5q+iRcads1aym//I12ZO5s57JTxRL0fbR0wCIpLnLSlJDfJbcOQ==",
+  "dgSpecHash": "VpddgZ6Omj0ZabKJ9l3xFOEPHl/hjNtft/9qt4179OrO1ilbu7APefFlRT7+BCTlrmxymK24f7WsG6tc+vUTLg==",
   "success": true,
-  "projectFilePath": "D:\\.net project\\DotNet-Resaurant\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
+  "projectFilePath": "D:\\.net project\\ApexResaurant\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
